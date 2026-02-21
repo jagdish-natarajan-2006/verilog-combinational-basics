@@ -1,4 +1,4 @@
-`##`Verilog Combinational Logic Design Collection
+# Verilog Combinational Logic Design Collection
 
 This repository contains basic combinational circuits implemented in Verilog HDL along with simulation testbenches.
 
